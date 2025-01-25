@@ -1,0 +1,23 @@
+{
+    "name": "Artwork Name",
+    "description": "This is a certified digital artwork on the GaiArtify platform.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafybeif6tqgpt5qub7y2ykzsenfbzky4fcubieifuhbidoue6l5vadqd2q",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "DIEMPI"
+      },
+      {
+        "trait_type": "Artwork Name",
+        "value": "Gai Art 1"
+      },
+      {
+        "trait_type": "Certified",
+        "value": "True"
+      },
+      {
+        "trait_type": "Date",
+        "value": "2025-01-25"
+      }
+    ]
+  }

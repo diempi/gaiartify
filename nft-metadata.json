@@ -1,0 +1,15 @@
+{
+    "attributes": [
+      {
+        "trait_type": "Art type",
+        "value": "Japan Golden Gai"
+      },
+      {
+        "trait_type": "Artist name",
+        "value": "Kaido"
+      }
+    ],
+    "description": "The world's most excited and jolly pup.",
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreigw3gqbzedbhped7eekg3qmoguj6sjhieaqsxxqztoyauosd35ac4",
+    "name": "Kiara"
+  }
